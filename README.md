@@ -7,7 +7,7 @@
 - Cause a change to given code so that server-side behavior is stubbed in
 - Cause a change to given code so that event listening has an effect
 
-## Introduction
+## Introduction 
 
 Knowing what web programming is and how its elements work together conceptually
 is an essential first step, but in order to help orient our upcoming lessons,
